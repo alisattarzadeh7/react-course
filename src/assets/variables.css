@@ -1,0 +1,12 @@
+:root{
+    --primary:blue;
+    --secondary:gray;
+    --metanextgreen:green;
+}
+
+
+
+.dark{
+    --primary: #0c0c64;
+
+}
